@@ -1,0 +1,14 @@
+{
+  "name": "L'Amour Secret",
+  "description": "A private, hidden social platform disguised as a whimsical coquette-themed garden game.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Vertical Video Feed",
+    "Encrypted Messaging",
+    "Local-First Privacy",
+    "Secret UI Transitions"
+  ]
+}
